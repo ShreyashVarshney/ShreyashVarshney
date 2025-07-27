@@ -75,3 +75,30 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
+</br>
+
+
+<!-- GitHub Stats Section -->
+<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(63, 128, 255, 0.2); font-family: 'Segoe UI', sans-serif;">
+
+  <h2 style="color: #3F80FF;">📊 GitHub Stats</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>Top Languages</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashvarshney&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <b>GitHub Summary</b><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&locale=en" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <div style="margin-top: 20px;">
+    <b>🔥 GitHub Streak</b><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashvarshney&theme=default" alt="GitHub Streak" />
+  </div>
+
+
