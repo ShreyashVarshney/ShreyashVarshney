@@ -72,27 +72,34 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(63, 128, 255, 0.2); font-family: 'Segoe UI', sans-serif;">
-  <h2 style="color: #3F80FF;">📊 GitHub Stats</h2>
+<h3 align="left">📊 GitHub Stats</h3>
 
-  <table>
-    <tr>
-      <td align="center">
-        <b>Top Languages</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashvarshney&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <b>GitHub Summary</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&locale=en" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+<!-- Responsive two-column layout -->
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
 
-  <div style="margin-top: 20px;">
-    <b>🔥 GitHub Streak</b><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashvarshney&theme=default" alt="GitHub Streak" />
-  </div>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashvarshney&show_icons=true&locale=en&layout=compact" 
+    alt="Top Languages" 
+    style="flex: 1 1 280px; max-width: 48%; height: auto;" 
+  />
+
+  <!-- GitHub Summary -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&locale=en" 
+    alt="GitHub Stats" 
+    style="flex: 1 1 280px; max-width: 48%; height: auto;" 
+  />
+
 </div>
 
+<!-- GitHub Streak -->
+<h3 align="left" style="margin-top: 30px;">🔥 GitHub Streak</h3>
 
-
+<div style="text-align: left;">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashvarshney&theme=default"
+    alt="GitHub Streak"
+    style="width: 60%; max-width: 400px; min-width: 250px;"
+  />
+</div>
