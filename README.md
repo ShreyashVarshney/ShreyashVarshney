@@ -4,16 +4,12 @@
 </p>
 
 <!-- Typing SVG with Border -->
-<table align="center" cellpadding="10" cellspacing="0"
-       style="border: 10px dashed #3F80FF; border-radius: 25px; box-shadow: 0 0 15px rgba(63, 128, 255, 0.6); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 100%; max-width: 1000px;">
-  <tr>
-    <td align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4999&pause=1000&color=3F80FF&center=true&width=1000&height=80&separator=%3C&lines=%F0%9F%91%8B+Hello+World!+%F0%9F%8C%8D%3C++System.out.println(I'm+Shreyash+Varshney);" alt="Typing SVG" style="width: 100%; max-width: 1000px;">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4999&pause=1000&color=3F80FF&center=true&width=1000&height=80&separator=%3C&lines=%F0%9F%91%8B+Hello+World!+%F0%9F%8C%8D%3C++System.out.println(I'm+Shreyash+Varshney);" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!-- Subtitle -->
 <h3 align="center" style="font-family:'Segoe UI', sans-serif; font-size: 24px; color: #3F80FF;">
