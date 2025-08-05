@@ -20,8 +20,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 30px;">
   
   <!-- Coding GIF -->
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" style="max-width: 100%; height: auto;">
+  <div style="flex: 1 1 250px; text-align: center;">
+    <img src="https://github.com/ShreyashVarshney/ShreyashVarshney/blob/main/Coding%20GIF/coding%20animation.gif" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- About Me -->
