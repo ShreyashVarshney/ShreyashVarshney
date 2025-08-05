@@ -20,9 +20,10 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 30px;">
   
   <!-- Coding GIF -->
-  <div style="flex: 1 1 250px; text-align: center;">
-    <img src="https://github.com/ShreyashVarshney/ShreyashVarshney/blob/main/Coding%20GIF/coding%20animation.gif" style="max-width: 100%; height: auto;">
-  </div>
+<p align="center">
+  <img src="https://github.com/ShreyashVarshney/ShreyashVarshney/blob/main/Coding%20GIF/developer.gif" alt="coding gif" width="550" />
+</p>
+
 
   <!-- About Me -->
   <div style="flex: 1 1 300px; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.6;">
