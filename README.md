@@ -12,8 +12,9 @@
 
 <!-- Subtitle & Quick Status Badges -->
 <h3 align="center" style="font-family:'Segoe UI', sans-serif; font-size: 24px; color: #3F80FF;">
-  🚀 A Passionate Web Developer & Software Engineer from India 🇮🇳
+  🚀 A Passionate Web Developer & Software Engineer from India
 </h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashvarshney&label=Profile%20Views&color=3F80FF&style=flat-square" alt="Profile Views" />
@@ -119,45 +120,22 @@
 <!-- GitHub Analytics & Stats Dashboard -->
 <h3 align="left">📊 GitHub Stats & Modern Progress Bars</h3>
 
-<p align="center">
-  <a href="https://github.com/shreyashvarshney">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&include_all_commits=true&count_private=true&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="Shreyash's GitHub Stats" />
-  </a>
-  <a href="https://github.com/shreyashvarshney">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashvarshney&title_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12&hide=jupyter%20notebook" alt="Top Languages Bar" />
-  </a>
-</p>
-
-<!-- GitHub Streak Bar -->
-<h3 align="left">🔥 GitHub Streak Bar</h3>
-
-<p align="center">
-  <a href="https://github.com/shreyashvarshney">
-    <img src="https://streak-stats.demolab.com/?user=shreyashvarshney&theme=github-dark&fire=3F80FF&ring=3F80FF&stroke=3F80FF&currStreakLabel=3F80FF&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&hide_border=true&border_radius=12" alt="GitHub Streak Bar" />
-  </a>
-</p>
+<table border="0" align="center" width="100%">
+  <tr align="center" valign="middle">
+    <td width="50%" align="center">
+      <a href="https://github.com/shreyashvarshney">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&include_all_commits=true&count_private=true&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="Shreyash's GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/shreyashvarshney">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashvarshney&title_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12&card_width=467&langs_count=4&hide=jupyter%20notebook" alt="Top Languages Bar" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-<!-- All-Time Contributions & Yearly History -->
-<h3 align="left">📅 Lifetime & Historical Contributions (2021 – Present)</h3>
-
-<p align="center">
-  <a href="https://github.com/shreyashvarshney">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashvarshney&theme=github_dark" alt="Lifetime Contributions Profile Card" width="100%" />
-  </a>
-</p>
-
-<!-- Year-by-Year Breakdown Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/All--Time-168%2B_Contributions-3F80FF?style=for-the-badge&logo=github&logoColor=white" alt="All Time" />
-  <img src="https://img.shields.io/badge/2026-9_Contributions-00B4D8?style=for-the-badge" alt="2026" />
-  <img src="https://img.shields.io/badge/2025-16_Contributions-48CAE4?style=for-the-badge" alt="2025" />
-  <img src="https://img.shields.io/badge/2024-47_Contributions-0077B6?style=for-the-badge" alt="2024" />
-  <img src="https://img.shields.io/badge/2023-48_Contributions-023E8A?style=for-the-badge" alt="2023" />
-  <img src="https://img.shields.io/badge/2022-41_Contributions-03045E?style=for-the-badge" alt="2022" />
-  <img src="https://img.shields.io/badge/2021-7_Contributions-1D3557?style=for-the-badge" alt="2021" />
-</p>
 
 <!-- 365-Day Live Contribution Bar -->
 <h3 align="left">📈 Rolling 365-Day Activity Heatmap</h3>
@@ -167,6 +145,7 @@
     <img src="https://ghchart.rshah.org/3F80FF/shreyashvarshney" alt="Contribution Graph Bar" width="100%" />
   </a>
 </p>
+
 
 ---
 
