@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShreyashVarshney/ShreyashVarshney/main/Github%20Banner/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShreyashVarshney/ShreyashVarshney/main/Github%20Banner/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Shreyash Varshney Banner" width="100%">
 </p>
 
 <!-- Dynamic Typing SVG Header -->
@@ -11,14 +11,13 @@
 </h1>
 
 <!-- Subtitle & Quick Status Badges -->
-<h3 align="center" style="font-family:'Segoe UI', sans-serif; font-size: 24px; color: #3F80FF;">
-  🚀 A Passionate Web Developer & Software Engineer from India
+<h3 align="center" style="font-family:'Segoe UI', sans-serif; font-size: 22px; color: #3F80FF;">
+  🚀 A Passionate Web Developer & Software Engineer from India 🇮🇳
 </h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashvarshney&label=Profile%20Views&color=3F80FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=github" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-3F80FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -27,11 +26,11 @@
 
 <!-- About Me Section -->
 <table border="0" align="center" width="100%">
-  <tr>
-    <td width="48%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ShreyashVarshney/ShreyashVarshney/main/Coding%20GIF/developer.gif" alt="Developer Coding" width="100%" />
+  <tr valign="middle">
+    <td width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/ShreyashVarshney/ShreyashVarshney/main/Coding%20GIF/developer.gif" alt="Developer Coding" width="100%" style="max-width: 440px;" />
     </td>
-    <td width="52%" valign="top">
+    <td width="55%" valign="top">
       <h3>💡 About Me</h3>
       <p>I am a passionate software developer who loves creating modern web applications, learning scalable backend architecture, and solving challenging algorithmic problems.</p>
       <ul>
@@ -146,7 +145,6 @@
   </a>
 </p>
 
-
 ---
 
 <!-- GitHub Analytics & Stats Dashboard -->
@@ -166,6 +164,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- 365-Day Live Contribution Bar -->
+<h3 align="left">📈 Rolling 365-Day Activity Heatmap</h3>
+
+<p align="center">
+  <a href="https://github.com/shreyashvarshney">
+    <img src="https://ghchart.rshah.org/3F80FF/shreyashvarshney" alt="Contribution Graph Bar" width="100%" />
+  </a>
+</p>
+
+---
 
 <!-- Footer Wave -->
 <p align="center">
