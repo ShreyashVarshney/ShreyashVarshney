@@ -199,7 +199,7 @@
 
 <!-- Dev Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Developer Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Inspirational Developer Quote" />
 </p>
 
 ---
