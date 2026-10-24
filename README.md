@@ -69,22 +69,32 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats & Language Progress Bars</h3>
 
 <p align="center">
   <a href="https://github.com/shreyashvarshney">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" alt="Shreyash's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&include_all_commits=true&count_private=true&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="Shreyash's GitHub Stats" />
   </a>
   <a href="https://github.com/shreyashvarshney">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashvarshney&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashvarshney&title_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12&hide=jupyter%20notebook" alt="Top Languages Bar" />
   </a>
 </p>
 
-<!-- GitHub Streak -->
-<h3 align="left">🔥 GitHub Streak</h3>
+<!-- GitHub Streak Bar -->
+<h3 align="left">🔥 GitHub Streak Bar</h3>
 
 <p align="center">
   <a href="https://github.com/shreyashvarshney">
-    <img src="https://streak-stats.demolab.com/?user=shreyashvarshney&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=shreyashvarshney&theme=github-dark&fire=3F80FF&ring=3F80FF&stroke=3F80FF&currStreakLabel=3F80FF&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&hide_border=true&border_radius=12" alt="GitHub Streak Bar" />
   </a>
 </p>
+
+<!-- Contribution Activity Bar -->
+<h3 align="left">📈 365-Day Contribution Activity Bar</h3>
+
+<p align="center">
+  <a href="https://github.com/shreyashvarshney">
+    <img src="https://ghchart.rshah.org/3F80FF/shreyashvarshney" alt="Contribution Graph Bar" width="100%" />
+  </a>
+</p>
+
