@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashvarshney&label=Profile%20Views&color=3F80FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=github" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-3F80FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -51,37 +50,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<!-- Connect With Me -->
-<h3 align="left">🤝 Connect With Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shreyash-varshney-a10945219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/shrevsny" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/@shre.varshney" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.leetcode.com/shreyashvarshney41" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/shreyashvarshney41" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/shreyash1267" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/shreyashvarshne1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shreyashvarshney41" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
-  </a>
-</p>
 
 ---
 
@@ -147,23 +115,76 @@
 
 ---
 
-<!-- GitHub Analytics & Stats Dashboard -->
-<h3 align="left">📊 GitHub Stats & Modern Progress Bars</h3>
+<!-- Featured Projects Showcase -->
+<h3 align="left">📌 Featured Repositories</h3>
 
 <table border="0" align="center" width="100%">
   <tr align="center" valign="middle">
     <td width="50%" align="center">
-      <a href="https://github.com/shreyashvarshney">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shreyashvarshney&show_icons=true&include_all_commits=true&count_private=true&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="Shreyash's GitHub Stats" />
+      <a href="https://github.com/ShreyashVarshney/OmniCalc" target="_blank">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashvarshney&repo=OmniCalc&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="OmniCalc" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/shreyashvarshney">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashvarshney&title_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12&card_width=467&langs_count=4&hide=jupyter%20notebook" alt="Top Languages Bar" />
+      <a href="https://github.com/ShreyashVarshney/NEP-Inventory-System" target="_blank">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashvarshney&repo=NEP-Inventory-System&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="NEP Inventory System" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center" valign="middle">
+    <td width="50%" align="center">
+      <a href="https://github.com/ShreyashVarshney/TO-DO_LIST" target="_blank">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashvarshney&repo=TO-DO_LIST&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="TO-DO LIST" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ShreyashVarshney/Resume-Analyzer" target="_blank">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashvarshney&repo=Resume-Analyzer&title_color=3F80FF&icon_color=3F80FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="Resume Analyzer" />
       </a>
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Competitive Programming & Problem Solving -->
+<h3 align="left">🏆 Coding Profiles & Problem Solving</h3>
+<p align="left">
+  <a href="https://www.leetcode.com/shreyashvarshney41" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/shreyashvarshney41" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/shreyash1267" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/shreyashvarshne1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shreyashvarshney41" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+  </a>
+</p>
+
+---
+
+<!-- Connect With Me -->
+<h3 align="left">🤝 Connect With Me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/shreyash-varshney-a10945219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/shrevsny" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/@shre.varshney" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:shreyashvarshney41@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -174,6 +195,11 @@
   <a href="https://github.com/shreyashvarshney">
     <img src="https://ghchart.rshah.org/3F80FF/shreyashvarshney" alt="Contribution Graph Bar" width="100%" />
   </a>
+</p>
+
+<!-- Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Developer Quote" />
 </p>
 
 ---
